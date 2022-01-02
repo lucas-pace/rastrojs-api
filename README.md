@@ -1,9 +1,10 @@
-# RastroJS
+# RastroJS - Não funcional
+
+A aplicação não está mais funcional devido ao novo captcha dos correios. Em breve nova atualização
 
 ## API de Rastreamento de Objetos - Correios v3
 Para rastreio de objetos nos correios sem uso de webservice.
 
-> Para versão legada (2.6) vá para brench [#legacy](https://github.com/talesluna/rastrojs-api/tree/legacy)
 ---
 GET
 https://tracking-pl.herokuapp.com/track/RASTREIO
